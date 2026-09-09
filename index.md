@@ -15,7 +15,7 @@ actually does today, not what it might do later.
 | **Do we sell your data?** | No. Never, to anyone, for any purpose. |
 | **Do we track you or show ads?** | No. There is no analytics, advertising or tracking code in the app at all. |
 | **Do we ask for location, contacts, camera or storage?** | No. The app never shows a permission prompt — it asks for no location, contacts, camera, microphone or file access. Your birth place is one you type and pick from a list; it is not read from your phone's location. |
-| **Do you need an account?** | No. The app works fully without one. |
+| **Do you need an account?** | Yes. You need to create an account to use the app, save your astrological charts, and access Pro features.|
 | **What leaves your phone?** | Your birth date, time and coordinates, so our server can compute your chart. Plus your questions, when you ask one. |
 
 ---
